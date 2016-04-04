@@ -1,4 +1,4 @@
-# ParallelRipleysKfunction
+# Parallel Ripley's K function
 The C++ implementation of OpenMP/MPI parallel Ripley's K function for point pattern analysis on spatial big data.
 
 # License
