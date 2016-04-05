@@ -11,4 +11,4 @@ Please find the code in directory "spp_openmp".
 Zhang, G., Huang, Q., Zhu, A.X., & Keel, J.H. 2016. Enabling point pattern analysis on spatial big data using cloud computing: optimizing and accelerating Ripley’s K function. International Journal of Geographical Information Science. doi: 10.1080/13658816.2016.1170836
 
 # Contact
-gzhang45@wisc.edu
+Email: gzhang45@wisc.edu
