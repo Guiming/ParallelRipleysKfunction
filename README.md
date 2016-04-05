@@ -4,7 +4,7 @@ The C++ implementation of OpenMP parallel Ripley's K function for point pattern 
 # License
 Copyright 2015 Guiming Zhang (gzhang45@wisc.edu). Distributed under GNU General Public License (GPL) license.
 
-# OpenMP-parallel Ripley's K function
+# C++ code
 Please find the code in directory "spp_openmp".
 
 # Citation
