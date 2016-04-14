@@ -2,7 +2,7 @@
 The C++ implementation of MPI/OpenMP parallel Ripley's K function for point pattern analysis on spatial big data. The pure OpenMP version is in the 'spp_openmp' directory and the MPI/OpenMP version in the 'spp_mpi' directory. Find more detail about the code here: http://www.tandfonline.com/eprint/5bCbgNcnCTjhniHED4Et/full.
 
 # Environment
-Ubuntu OS, with OpenMPI installed for the MPI/OpenMP version.
+Ubuntu OS, with OpenMPI installed to run the MPI/OpenMP version.
 
 # License
 Copyright 2015 Guiming Zhang. Distributed under GNU General Public License (GPL) license.
